@@ -2,7 +2,7 @@
 layout: post
 title:  "Chyba jestem na dobrej drodze"
 author: sal
-categories: [ nowość, tutorial ]
+categories: [ tutorial ]
 image: assets/images/3.jpg
 ---
 
