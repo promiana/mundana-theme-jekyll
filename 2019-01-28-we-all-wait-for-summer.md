@@ -1,15 +1,11 @@
 ---
-
-
+layout: post
+title:  "We all wait for summer"
+author: jane
+categories: [ Jekyll, tutorial ]
+image: assets/images/1.jpg
+tags: [featured]
 ---
+To chyba powinno być po Polsku. Coś nie tak poszło. Bardzo nie tak. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
-<hr>
-<h2 id="layout-posttitle--we-all-wait-for-summerauthor-janecategories--jekyll-tutorial-image-assetsimages1.jpgtags-featured">layout: post<br>
-title:  “We all wait for summer”<br>
-author: jane<br>
-categories: [ Jekyll, tutorial ]<br>
-image: assets/images/1.jpg<br>
-tags: [featured]</h2>
-<p>To chyba powinno być po Polsku. Coś nie tak poszło. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>
-
+It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
