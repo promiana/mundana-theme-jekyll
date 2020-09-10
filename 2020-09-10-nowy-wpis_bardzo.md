@@ -6,7 +6,6 @@ categories: [ nowość, tutorial ]
 image: assets/images/3.jpg
 ---
 
-# Po długim czasie...
 Poniżej znajdziecie wyjaśnienie dla Lorem Ipsum.
 
 ## What is Lorem Ipsum?
