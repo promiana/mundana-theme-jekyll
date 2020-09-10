@@ -1,4 +1,3 @@
-
 ---
 layout: "post"
 title: "Środowy wieczór"
@@ -6,6 +5,7 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3_low_res.jpg
 ---
+
 Jest środa wieczorem i żółta gęśl zagęszcza kroki swe. Łopatą go trzeba przyćmić. Królowie to wiedzą.
 
 ## Król jest nagi
