@@ -27,3 +27,6 @@ Jekyll happens to be the engine behind GitHub Pages, so you can host your projec
 Może jakbym filmik tutaj wrzucił? Może byłoby fajniej?
 
 <https://www.youtube.com/watch?v=n9v-2xF54HM>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=n9v-2xF54HM
+" target="_blank"><img src="http://img.youtube.com/vi/n9v-2xF54HM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
