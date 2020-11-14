@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lwia zmarszczka- zmarszczka złości
-author: Idalia
+author: idalia
 categories:
   - uroda
 image: /assets/images/mammal-3123179_1920.jpg

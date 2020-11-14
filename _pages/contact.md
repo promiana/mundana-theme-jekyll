@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Kontakt"
 permalink: "/contact.html"
 ---
 
