@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'promianatic@gmail.com'
 mailchimp-list: 'https://gmail.us7.list-manage.com/subscribe/post?u=9844725e29c8fedb38189a743&amp;id=34f8c52502'
 
 include: ["_pages"]
