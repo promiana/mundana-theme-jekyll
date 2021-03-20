@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mezoterapia - Polinukleotydy
-author: Idalia
+author: idalia
 categories:
   - Zabiegi
 image: assets/images/mezopoli.jpg
