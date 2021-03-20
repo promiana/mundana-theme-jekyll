@@ -4,7 +4,7 @@ title: Mezoterapia - Polinukleotydy
 author: Idalia
 categories:
   - Zabiegi
-image: /assets/images/mezopoli.png
+image: /assets/images/mezopoli.jpg
 tags: featured
 ---
 Chciałabym co tydzień przybliżać Wam któryś z zabiegów dostępnych w Promianie.
