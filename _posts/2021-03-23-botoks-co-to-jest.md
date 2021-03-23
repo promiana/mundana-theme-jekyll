@@ -4,7 +4,7 @@ title: Botoks - co to jest?
 author: idalia
 categories:
   - uroda
-image: /assets/images/botoks.jpg
+image: assets/images/botoks.jpg
 tags: sticky
 ---
 Botoks. Jeden z najczęściej wykonywanych zabiegów medycyny estetycznej. Mimo to jest wiele mitów z nim związanych. Często kojarzy się z "napompowanymi" ustami i sztucznością.
@@ -16,8 +16,8 @@ Toksyna botulinowa typu A jest zarejestrowana jako lek
 Botoks działa na mięśnie, nie bezpośrednio na skórę. Podany w okolice mięśni mimicznych odpowiedzialnych za grymas:
 
 * złości - lwia zmarszczka
-* zdziwienia - zmarszczki poprzeczne czoła 
-* mrużenia oczu - kurze łapki 
+* zdziwienia - zmarszczki poprzeczne czoła
+* mrużenia oczu - kurze łapki
 
 ogranicza ruchomość tych mięśni, dzięki czemu zmarszczki wypłycają się, a twarz zyskuje zrelaksowany, bardziej wypoczęty wygląd.
 
