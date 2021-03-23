@@ -8,7 +8,7 @@ backend:
 # This line should *not* be indented
 publish_mode: editorial_workflow
 # This line should *not* be indented
-media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
+media_folder: "/assets/images" # Media files will be stored in the repo under images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
@@ -18,8 +18,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
-      - {label: "Category", name: "categories", widget: "list", default: ["tutorial"]}
+      - {label: "Author", name: "author", widget: "string", default: ["idalia"]}
+      - {label: "Category", name: "categories", widget: "list", default: ["uroda"]}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Special", name: "tags", widget: "select", options: ["featured", "sticky", "summer"], required: false }
       - {label: "Body", name: "body", widget: "markdown"}
