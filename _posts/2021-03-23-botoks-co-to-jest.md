@@ -5,7 +5,7 @@ author: idalia
 categories:
   - uroda
 image: assets/images/botoks.jpg
-tags: sticky
+tags: null
 ---
 Botoks. Jeden z najczęściej wykonywanych zabiegów medycyny estetycznej. Mimo to jest wiele mitów z nim związanych. Często kojarzy się z "napompowanymi" ustami i sztucznością.
 
