@@ -5,7 +5,7 @@ author: idalia
 categories:
   - Zabiegi
 image: assets/images/mezopoli.jpg
-tags: featured
+tags: sticky
 ---
 Chciałabym co tydzień przybliżać Wam któryś z zabiegów dostępnych w Promianie.
 
